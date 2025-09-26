@@ -5,7 +5,7 @@ Autor: Pedro Mendes de Azambuja Rodrigues
 Data: 26/09/2025  
 
 ## Descrição
-Este projeto busca prever readmissões hospitalares em até 30 dias após a alta, utilizando o dataset público [Diabetes 130-US hospitals (1999–2008)](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008).
+O objetivo deste projeto é desenvolver modelos de classificação binária para prever readmissões hospitalares em até 30 dias após a alta, utilizando o dataset público [Diabetes 130-US hospitals (1999–2008)](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008).
 
 ## Estrutura do repositório
 - `MVP_ML_PMAR_final_.ipynb` → notebook principal com análise, modelagem e avaliação.  
