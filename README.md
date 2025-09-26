@@ -19,7 +19,7 @@ Este projeto busca prever readmissões hospitalares em até 30 dias após a alta
 
 2. Execute todas as células em ordem (Runtime > Run all).  
 
-3. Caso queira pular o treino, carregue o pipeline já salvo em `models/`. 
+3. O controle de execução está definido como LOAD_PRETRAINED = True para carregar o pipeline já treinado salvo em `models/` e executar o notebook. Se desejar reproduzir o RandomizedSearchCV completo ajuste LOAD_PRETRAINED para False e rode novamente. 
 
 ## Observações
 - O notebook já parte de uma versão limpa do dataset (remoção de variáveis com muitos faltantes, exclusão de óbitos/cuidados paliativos, agrupamento de categorias raras). 
